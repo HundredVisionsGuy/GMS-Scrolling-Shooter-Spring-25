@@ -34,9 +34,12 @@
   },
   "name":"Scrolling Shooter",
   "resources":[
+    {"id":{"name":"obj_enemy_tank","path":"objects/obj_enemy_tank/obj_enemy_tank.yy",},},
+    {"id":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},},
     {"id":{"name":"obj_player_barrel","path":"objects/obj_player_barrel/obj_player_barrel.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_enemy_tank_small","path":"sprites/spr_enemy_tank_small/spr_enemy_tank_small.yy",},},
     {"id":{"name":"spr_red_barrel","path":"sprites/spr_red_barrel/spr_red_barrel.yy",},},
     {"id":{"name":"spr_tank_body","path":"sprites/spr_tank_body/spr_tank_body.yy",},},
   ],
