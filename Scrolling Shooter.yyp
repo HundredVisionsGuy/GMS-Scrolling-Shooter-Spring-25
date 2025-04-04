@@ -34,9 +34,11 @@
   },
   "name":"Scrolling Shooter",
   "resources":[
+    {"id":{"name":"obj_player_barrel","path":"objects/obj_player_barrel/obj_player_barrel.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
+    {"id":{"name":"spr_red_barrel","path":"sprites/spr_red_barrel/spr_red_barrel.yy",},},
+    {"id":{"name":"spr_tank_body","path":"sprites/spr_tank_body/spr_tank_body.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
